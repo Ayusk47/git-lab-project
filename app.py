@@ -1,5 +1,5 @@
 print('Hello Git')
 print('User login feature')
 print('Added Dashboard Ui')
-print('Hello from A')
-print('Hello from User B')
+print('Hello from User A')
+print('Hello from B')
